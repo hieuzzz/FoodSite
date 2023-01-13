@@ -80,7 +80,7 @@ img{
 }
 
 .details .price::before{
-    content: "Price: ";
+    content: "Giá: ";
     color: darkgrey;
 }
 

@@ -95,11 +95,11 @@ ul .remove-button:hover{
 }
 
 .checkout .foods-count::before{
-    content: 'Count: ';
+    content: 'Số lượng: ';
     color: grey;
 }
 
 .checkout .total-price::before{
-    content: 'Price: ';
+    content: 'Thành tiền: ';
     color: grey;
 }
